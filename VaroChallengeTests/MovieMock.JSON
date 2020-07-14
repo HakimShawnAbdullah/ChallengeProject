@@ -1,0 +1,101 @@
+{
+    "results": [
+                {
+                "popularity": 47.364,
+                "vote_count": 0,
+                "video": false,
+                "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+                "id": 454626,
+                "adult": false,
+                "backdrop_path": "/tCUcf3oNWMW8kwAj3WC6CvIN5ah.jpg",
+                "original_language": "en",
+                "original_title": "Sonic the Hedgehog",
+                "genre_ids": [
+                              28,
+                              12,
+                              35,
+                              14,
+                              878,
+                              10751
+                              ],
+                "title": "Sonic the Hedgehog",
+                "vote_average": 0,
+                "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+                "release_date": "2020-02-12"
+                },
+                {
+                "popularity": 59.314,
+                "vote_count": 187,
+                "video": false,
+                "poster_path": "/gk9BPbtPoc9KvGAQPKsJ03YwP9W.jpg",
+                "id": 501907,
+                "adult": false,
+                "backdrop_path": "/w0tJot6O0UtLVBRIPAdg3dQ2oNO.jpg",
+                "original_language": "en",
+                "original_title": "A Beautiful Day in the Neighborhood",
+                "genre_ids": [
+                              18
+                              ],
+                "title": "A Beautiful Day in the Neighborhood",
+                "vote_average": 7.4,
+                "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+                "release_date": "2019-11-22"
+                },
+                {
+                "popularity": 40.101,
+                "vote_count": 34,
+                "video": false,
+                "poster_path": "/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg",
+                "id": 492611,
+                "adult": false,
+                "backdrop_path": "/yv0NQmX1TWsXmIpxgpDQtlMRixp.jpg",
+                "original_language": "en",
+                "original_title": "The Turning",
+                "genre_ids": [
+                              27,
+                              53
+                              ],
+                "title": "The Turning",
+                "vote_average": 5.5,
+                "overview": "A young governess is hired by a man who has become responsible for his young nephew and niece after the deaths of their parents. A modern take on Henry James' novella \"The Turn of the Screw\".",
+                "release_date": "2020-01-23"
+                },
+                {
+                "popularity": 44.981,
+                "vote_count": 24425,
+                "video": false,
+                "poster_path": "/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+                "id": 27205,
+                "adult": false,
+                "backdrop_path": "/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
+                "original_language": "en",
+                "original_title": "Inception",
+                "genre_ids": [
+                              28,
+                              12,
+                              878
+                              ],
+                "title": "Inception",
+                "vote_average": 8.3,
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "release_date": "2010-07-15"
+                },
+                {
+                "popularity": 36.219,
+                "vote_count": 92,
+                "video": false,
+                "poster_path": "/lRZ1U7LeRbW7swneo4BOqNCeKXy.jpg",
+                "id": 653567,
+                "adult": false,
+                "backdrop_path": "/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
+                "original_language": "en",
+                "original_title": "Miss Americana",
+                "genre_ids": [
+                              99
+                              ],
+                "title": "Miss Americana",
+                "vote_average": 8.1,
+                "overview": "A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.",
+                "release_date": "2020-01-31"
+                }]
+}

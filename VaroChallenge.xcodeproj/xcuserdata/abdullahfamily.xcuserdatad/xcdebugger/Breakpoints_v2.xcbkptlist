@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Controllers/ViewController.swift"
+            timestampString = "602831320.850644"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;VaroChallenge.MovieViewModel&gt;) -&gt; () in VaroChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Controllers/ViewController.swift"
+                  timestampString = "602828941.670101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in VaroChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Controllers/ViewController.swift"
+                  timestampString = "602828941.672781"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Controllers/ViewController.swift"
+            timestampString = "602831320.850695"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Controllers/ViewController.swift"
+                  timestampString = "602828941.679431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in VaroChallenge.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Controllers/ViewController.swift"
+                  timestampString = "602828941.681008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallengeTests/MovieTests.swift"
+            timestampString = "602831320.8507349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testMovieDecoding()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallengeTests.MovieTests.testMovieDecoding() -&gt; ()"
+                  moduleName = "VaroChallengeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallengeTests/MovieTests.swift"
+                  timestampString = "602829608.326468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Optional&lt;Any&gt; in VaroChallengeTests.MovieTests.testMovieDecoding() -&gt; ()"
+                  moduleName = "VaroChallengeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallengeTests/MovieTests.swift"
+                  timestampString = "602829608.328113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Models/MovieModel.swift"
+            timestampString = "602831320.850786"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallenge.MoviePlaying.init(from: Swift.Decoder) throws -&gt; VaroChallenge.MoviePlaying"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Models/MovieModel.swift"
+                  timestampString = "602829552.539457"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "185">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallengeTests.MoviePlaying.init(from: Swift.Decoder) throws -&gt; VaroChallengeTests.MoviePlaying"
+                  moduleName = "VaroChallengeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Models/MovieModel.swift"
+                  timestampString = "602829552.5412281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Manager/NetworkManager.swift"
+            timestampString = "602831320.851063"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getMoviesPlaying(page:completion:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Manager/MovieDataManager.swift"
+            timestampString = "602831320.851107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getMoviesPlaying(page:completion:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Manager/MovieDataManager.swift"
+            timestampString = "602831320.851144"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getMoviesPlaying(page:completion:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Manager/NetworkManager.swift"
+            timestampString = "602831320.851179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getMoviesPlaying(page:completion:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Manager/NetworkManager.swift"
+            timestampString = "602831320.851218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getMoviesPlaying(page:completion:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Manager/MovieDataManager.swift"
+            timestampString = "602831320.851256"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getMoviesPlaying(page:completion:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Models/MovieModel.swift"
+            timestampString = "602831320.851303"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallenge.MoviePlaying.init(from: Swift.Decoder) throws -&gt; VaroChallenge.MoviePlaying"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Models/MovieModel.swift"
+                  timestampString = "602829548.301623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallengeTests.MoviePlaying.init(from: Swift.Decoder) throws -&gt; VaroChallengeTests.MoviePlaying"
+                  moduleName = "VaroChallengeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Models/MovieModel.swift"
+                  timestampString = "602829548.699683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VaroChallenge/Models/MovieModel.swift"
+            timestampString = "602831320.851513"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallenge.MoviePlaying.init(from: Swift.Decoder) throws -&gt; VaroChallenge.MoviePlaying"
+                  moduleName = "VaroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Models/MovieModel.swift"
+                  timestampString = "602831320.856902"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "838">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VaroChallengeTests.MoviePlaying.init(from: Swift.Decoder) throws -&gt; VaroChallengeTests.MoviePlaying"
+                  moduleName = "VaroChallengeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahfamily/Library/Autosave%20Information/VaroChallenge/VaroChallenge/Models/MovieModel.swift"
+                  timestampString = "602831321.236275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "838">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
